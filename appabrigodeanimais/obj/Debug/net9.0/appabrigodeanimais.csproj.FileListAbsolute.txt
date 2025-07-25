@@ -1,0 +1,15 @@
+c:\Users\Hudson\Desktop\HD\Exercicios\EcerciciosdeC#\appabrigodeanimais\appabrigodeanimais\bin\Debug\net9.0\appabrigodeanimais.exe
+c:\Users\Hudson\Desktop\HD\Exercicios\EcerciciosdeC#\appabrigodeanimais\appabrigodeanimais\bin\Debug\net9.0\appabrigodeanimais.deps.json
+c:\Users\Hudson\Desktop\HD\Exercicios\EcerciciosdeC#\appabrigodeanimais\appabrigodeanimais\bin\Debug\net9.0\appabrigodeanimais.runtimeconfig.json
+c:\Users\Hudson\Desktop\HD\Exercicios\EcerciciosdeC#\appabrigodeanimais\appabrigodeanimais\bin\Debug\net9.0\appabrigodeanimais.dll
+c:\Users\Hudson\Desktop\HD\Exercicios\EcerciciosdeC#\appabrigodeanimais\appabrigodeanimais\bin\Debug\net9.0\appabrigodeanimais.pdb
+c:\Users\Hudson\Desktop\HD\Exercicios\EcerciciosdeC#\appabrigodeanimais\appabrigodeanimais\obj\Debug\net9.0\appabrigodeanimais.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Hudson\Desktop\HD\Exercicios\EcerciciosdeC#\appabrigodeanimais\appabrigodeanimais\obj\Debug\net9.0\appabrigodeanimais.AssemblyInfoInputs.cache
+c:\Users\Hudson\Desktop\HD\Exercicios\EcerciciosdeC#\appabrigodeanimais\appabrigodeanimais\obj\Debug\net9.0\appabrigodeanimais.AssemblyInfo.cs
+c:\Users\Hudson\Desktop\HD\Exercicios\EcerciciosdeC#\appabrigodeanimais\appabrigodeanimais\obj\Debug\net9.0\appabrigodeanimais.csproj.CoreCompileInputs.cache
+c:\Users\Hudson\Desktop\HD\Exercicios\EcerciciosdeC#\appabrigodeanimais\appabrigodeanimais\obj\Debug\net9.0\appabrigodeanimais.sourcelink.json
+c:\Users\Hudson\Desktop\HD\Exercicios\EcerciciosdeC#\appabrigodeanimais\appabrigodeanimais\obj\Debug\net9.0\appabrigodeanimais.dll
+c:\Users\Hudson\Desktop\HD\Exercicios\EcerciciosdeC#\appabrigodeanimais\appabrigodeanimais\obj\Debug\net9.0\refint\appabrigodeanimais.dll
+c:\Users\Hudson\Desktop\HD\Exercicios\EcerciciosdeC#\appabrigodeanimais\appabrigodeanimais\obj\Debug\net9.0\appabrigodeanimais.pdb
+c:\Users\Hudson\Desktop\HD\Exercicios\EcerciciosdeC#\appabrigodeanimais\appabrigodeanimais\obj\Debug\net9.0\appabrigodeanimais.genruntimeconfig.cache
+c:\Users\Hudson\Desktop\HD\Exercicios\EcerciciosdeC#\appabrigodeanimais\appabrigodeanimais\obj\Debug\net9.0\ref\appabrigodeanimais.dll
